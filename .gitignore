@@ -1,0 +1,12 @@
+# Настройки редакторов кода (VS Code, WebStorm и др.)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Логи ошибок
+*.log
+*.directory
